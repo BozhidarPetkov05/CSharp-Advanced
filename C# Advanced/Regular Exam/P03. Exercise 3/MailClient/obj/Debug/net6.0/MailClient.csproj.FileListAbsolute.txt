@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\bin\Debug\net6.0\MailClient.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\bin\Debug\net6.0\MailClient.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\bin\Debug\net6.0\MailClient.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\bin\Debug\net6.0\MailClient.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\refint\MailClient.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Regular Exam\P03. Exercise 3\MailClient\obj\Debug\net6.0\ref\MailClient.dll

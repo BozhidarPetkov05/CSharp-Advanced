@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\bin\Debug\net6.0\P01.DefineAClassPerson.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\bin\Debug\net6.0\P01.DefineAClassPerson.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\bin\Debug\net6.0\P01.DefineAClassPerson.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\bin\Debug\net6.0\P01.DefineAClassPerson.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\bin\Debug\net6.0\P01.DefineAClassPerson.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\refint\P01.DefineAClassPerson.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\P01.DefineAClassPerson.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P01. Define a Class Person\obj\Debug\net6.0\ref\P01.DefineAClassPerson.dll

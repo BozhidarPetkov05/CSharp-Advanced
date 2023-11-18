@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\bin\Debug\net6.0\P06. Zip and Extracts.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\bin\Debug\net6.0\P06. Zip and Extracts.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\bin\Debug\net6.0\P06. Zip and Extracts.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\bin\Debug\net6.0\P06. Zip and Extracts.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\bin\Debug\net6.0\P06. Zip and Extracts.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\refint\P06. Zip and Extracts.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\P06. Zip and Extracts.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P06. Zip and Extracts\obj\Debug\net6.0\ref\P06. Zip and Extracts.dll

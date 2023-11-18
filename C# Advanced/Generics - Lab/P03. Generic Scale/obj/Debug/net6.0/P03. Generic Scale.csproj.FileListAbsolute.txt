@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\bin\Debug\net6.0\P03. Generic Scale.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\bin\Debug\net6.0\P03. Generic Scale.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\bin\Debug\net6.0\P03. Generic Scale.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\bin\Debug\net6.0\P03. Generic Scale.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\bin\Debug\net6.0\P03. Generic Scale.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\refint\P03. Generic Scale.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\P03. Generic Scale.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\P03. Generic Scale\obj\Debug\net6.0\ref\P03. Generic Scale.dll

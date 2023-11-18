@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\bin\Debug\net6.0\P03.OldestFamilyMember.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\bin\Debug\net6.0\P03.OldestFamilyMember.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\bin\Debug\net6.0\P03.OldestFamilyMember.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\bin\Debug\net6.0\P03.OldestFamilyMember.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\bin\Debug\net6.0\P03.OldestFamilyMember.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\refint\P03.OldestFamilyMember.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\P03.OldestFamilyMember.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P03. Oldest Family Member\obj\Debug\net6.0\ref\P03.OldestFamilyMember.dll

@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\bin\Debug\net6.0\P05. Applied Arithmetics.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\bin\Debug\net6.0\P05. Applied Arithmetics.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\bin\Debug\net6.0\P05. Applied Arithmetics.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\bin\Debug\net6.0\P05. Applied Arithmetics.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\bin\Debug\net6.0\P05. Applied Arithmetics.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\refint\P05. Applied Arithmetics.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\P05. Applied Arithmetics.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P05. Applied Arithmetics\obj\Debug\net6.0\ref\P05. Applied Arithmetics.dll

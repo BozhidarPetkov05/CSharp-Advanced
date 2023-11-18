@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\bin\Debug\net6.0\P03. Maximal Sum.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\bin\Debug\net6.0\P03. Maximal Sum.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\bin\Debug\net6.0\P03. Maximal Sum.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\bin\Debug\net6.0\P03. Maximal Sum.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\bin\Debug\net6.0\P03. Maximal Sum.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\refint\P03. Maximal Sum.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\P03. Maximal Sum.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\P03. Maximal Sum\obj\Debug\net6.0\ref\P03. Maximal Sum.dll

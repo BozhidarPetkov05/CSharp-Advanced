@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\bin\Debug\net6.0\P01. Odd Lines.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\bin\Debug\net6.0\P01. Odd Lines.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\bin\Debug\net6.0\P01. Odd Lines.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\bin\Debug\net6.0\P01. Odd Lines.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\bin\Debug\net6.0\P01. Odd Lines.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\refint\P01. Odd Lines.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\P01. Odd Lines.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\P01. Odd Lines\obj\Debug\net6.0\ref\P01. Odd Lines.dll

@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\bin\Debug\net6.0\P01. Monster Extermination.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\bin\Debug\net6.0\P01. Monster Extermination.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\bin\Debug\net6.0\P01. Monster Extermination.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\bin\Debug\net6.0\P01. Monster Extermination.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\bin\Debug\net6.0\P01. Monster Extermination.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\refint\P01. Monster Extermination.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\P01. Monster Extermination.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P01. Monster Extermination\obj\Debug\net6.0\ref\P01. Monster Extermination.dll

@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\bin\Debug\net6.0\P03. ComparableBook.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\bin\Debug\net6.0\P03. ComparableBook.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\bin\Debug\net6.0\P03. ComparableBook.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\bin\Debug\net6.0\P03. ComparableBook.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\bin\Debug\net6.0\P03. ComparableBook.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\refint\P03. ComparableBook.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\P03. ComparableBook.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P03. ComparableBook\obj\Debug\net6.0\ref\P03. ComparableBook.dll

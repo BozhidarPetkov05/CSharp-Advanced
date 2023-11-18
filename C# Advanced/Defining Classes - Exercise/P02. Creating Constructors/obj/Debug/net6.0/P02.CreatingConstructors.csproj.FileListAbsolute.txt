@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\bin\Debug\net6.0\P02.CreatingConstructors.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\bin\Debug\net6.0\P02.CreatingConstructors.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\bin\Debug\net6.0\P02.CreatingConstructors.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\bin\Debug\net6.0\P02.CreatingConstructors.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\bin\Debug\net6.0\P02.CreatingConstructors.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\refint\P02.CreatingConstructors.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\P02.CreatingConstructors.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P02. Creating Constructors\obj\Debug\net6.0\ref\P02.CreatingConstructors.dll

@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\bin\Debug\net6.0\P04. Directory Traversal.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\bin\Debug\net6.0\P04. Directory Traversal.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\bin\Debug\net6.0\P04. Directory Traversal.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\bin\Debug\net6.0\P04. Directory Traversal.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\bin\Debug\net6.0\P04. Directory Traversal.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\refint\P04. Directory Traversal.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\P04. Directory Traversal.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\P04. Directory Traversal\obj\Debug\net6.0\ref\P04. Directory Traversal.dll

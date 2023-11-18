@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\bin\Debug\net6.0\P06. Supermarket.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\bin\Debug\net6.0\P06. Supermarket.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\bin\Debug\net6.0\P06. Supermarket.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\bin\Debug\net6.0\P06. Supermarket.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\bin\Debug\net6.0\P06. Supermarket.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\refint\P06. Supermarket.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\P06. Supermarket.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P06. Supermarket\obj\Debug\net6.0\ref\P06. Supermarket.dll

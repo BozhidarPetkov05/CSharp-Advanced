@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\bin\Debug\net6.0\P01. Sum Matrix Elements.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\bin\Debug\net6.0\P01. Sum Matrix Elements.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\bin\Debug\net6.0\P01. Sum Matrix Elements.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\bin\Debug\net6.0\P01. Sum Matrix Elements.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\bin\Debug\net6.0\P01. Sum Matrix Elements.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\refint\P01. Sum Matrix Elements.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\P01. Sum Matrix Elements.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\P01. Sum Matrix Elements\obj\Debug\net6.0\ref\P01. Sum Matrix Elements.dll

@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\bin\Debug\net6.0\P04. Even Times.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\bin\Debug\net6.0\P04. Even Times.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\bin\Debug\net6.0\P04. Even Times.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\bin\Debug\net6.0\P04. Even Times.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\bin\Debug\net6.0\P04. Even Times.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\refint\P04. Even Times.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\P04. Even Times.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\P04. Even Times\obj\Debug\net6.0\ref\P04. Even Times.dll

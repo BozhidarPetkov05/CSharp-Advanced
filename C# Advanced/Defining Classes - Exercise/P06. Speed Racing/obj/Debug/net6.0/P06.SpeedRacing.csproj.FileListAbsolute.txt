@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\bin\Debug\net6.0\P06.SpeedRacing.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\bin\Debug\net6.0\P06.SpeedRacing.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\bin\Debug\net6.0\P06.SpeedRacing.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\bin\Debug\net6.0\P06.SpeedRacing.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\bin\Debug\net6.0\P06.SpeedRacing.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\refint\P06.SpeedRacing.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\P06.SpeedRacing.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P06. Speed Racing\obj\Debug\net6.0\ref\P06.SpeedRacing.dll

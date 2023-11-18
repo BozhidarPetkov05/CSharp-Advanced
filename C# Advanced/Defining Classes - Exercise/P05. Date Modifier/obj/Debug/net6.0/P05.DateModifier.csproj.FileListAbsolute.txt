@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\bin\Debug\net6.0\P05.DateModifier.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\bin\Debug\net6.0\P05.DateModifier.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\bin\Debug\net6.0\P05.DateModifier.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\bin\Debug\net6.0\P05.DateModifier.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\bin\Debug\net6.0\P05.DateModifier.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\refint\P05.DateModifier.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\P05.DateModifier.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\P05. Date Modifier\obj\Debug\net6.0\ref\P05.DateModifier.dll

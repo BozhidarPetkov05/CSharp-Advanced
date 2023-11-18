@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\bin\Debug\net6.0\P05. Print Even Numbers.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\bin\Debug\net6.0\P05. Print Even Numbers.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\bin\Debug\net6.0\P05. Print Even Numbers.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\bin\Debug\net6.0\P05. Print Even Numbers.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\bin\Debug\net6.0\P05. Print Even Numbers.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\refint\P05. Print Even Numbers.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\P05. Print Even Numbers.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P05. Print Even Numbers\obj\Debug\net6.0\ref\P05. Print Even Numbers.dll

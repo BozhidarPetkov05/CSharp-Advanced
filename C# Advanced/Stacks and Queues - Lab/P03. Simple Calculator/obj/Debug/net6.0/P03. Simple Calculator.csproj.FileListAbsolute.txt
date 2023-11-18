@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\bin\Debug\net6.0\P03. Simple Calculator.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\bin\Debug\net6.0\P03. Simple Calculator.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\bin\Debug\net6.0\P03. Simple Calculator.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\bin\Debug\net6.0\P03. Simple Calculator.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\bin\Debug\net6.0\P03. Simple Calculator.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\refint\P03. Simple Calculator.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\P03. Simple Calculator.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Stacks and Queues - Lab\P03. Simple Calculator\obj\Debug\net6.0\ref\P03. Simple Calculator.dll

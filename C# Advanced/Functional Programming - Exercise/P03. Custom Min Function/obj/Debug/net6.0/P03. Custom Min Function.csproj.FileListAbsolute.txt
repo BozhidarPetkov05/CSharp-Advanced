@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\bin\Debug\net6.0\P03. Custom Min Function.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\bin\Debug\net6.0\P03. Custom Min Function.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\bin\Debug\net6.0\P03. Custom Min Function.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\bin\Debug\net6.0\P03. Custom Min Function.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\bin\Debug\net6.0\P03. Custom Min Function.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\refint\P03. Custom Min Function.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\P03. Custom Min Function.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming - Exercise\P03. Custom Min Function\obj\Debug\net6.0\ref\P03. Custom Min Function.dll

@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\bin\Debug\net6.0\P01. Generic Box of String.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\bin\Debug\net6.0\P01. Generic Box of String.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\bin\Debug\net6.0\P01. Generic Box of String.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\bin\Debug\net6.0\P01. Generic Box of String.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\bin\Debug\net6.0\P01. Generic Box of String.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\refint\P01. Generic Box of String.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\P01. Generic Box of String.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P01. Generic Box of String\obj\Debug\net6.0\ref\P01. Generic Box of String.dll

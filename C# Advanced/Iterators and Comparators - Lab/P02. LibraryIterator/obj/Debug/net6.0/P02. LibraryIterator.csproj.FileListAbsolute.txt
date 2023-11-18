@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\bin\Debug\net6.0\P02. LibraryIterator.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\bin\Debug\net6.0\P02. LibraryIterator.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\bin\Debug\net6.0\P02. LibraryIterator.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\bin\Debug\net6.0\P02. LibraryIterator.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\bin\Debug\net6.0\P02. LibraryIterator.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\refint\P02. LibraryIterator.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\P02. LibraryIterator.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\P02. LibraryIterator\obj\Debug\net6.0\ref\P02. LibraryIterator.dll

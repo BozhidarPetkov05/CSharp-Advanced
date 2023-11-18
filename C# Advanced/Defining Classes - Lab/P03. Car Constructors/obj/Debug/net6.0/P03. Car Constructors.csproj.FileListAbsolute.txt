@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\bin\Debug\net6.0\P03. Car Constructors.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\bin\Debug\net6.0\P03. Car Constructors.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\bin\Debug\net6.0\P03. Car Constructors.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\bin\Debug\net6.0\P03. Car Constructors.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\bin\Debug\net6.0\P03. Car Constructors.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\refint\P03. Car Constructors.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\P03. Car Constructors.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Lab\P03. Car Constructors\obj\Debug\net6.0\ref\P03. Car Constructors.dll

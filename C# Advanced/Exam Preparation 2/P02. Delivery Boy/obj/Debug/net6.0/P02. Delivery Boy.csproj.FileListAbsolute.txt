@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\bin\Debug\net6.0\P02. Delivery Boy.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\bin\Debug\net6.0\P02. Delivery Boy.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\bin\Debug\net6.0\P02. Delivery Boy.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\bin\Debug\net6.0\P02. Delivery Boy.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\bin\Debug\net6.0\P02. Delivery Boy.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\refint\P02. Delivery Boy.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\P02. Delivery Boy.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation 2\P02. Delivery Boy\obj\Debug\net6.0\ref\P02. Delivery Boy.dll

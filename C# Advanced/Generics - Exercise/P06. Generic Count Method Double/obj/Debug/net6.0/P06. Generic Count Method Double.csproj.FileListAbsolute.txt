@@ -1,0 +1,15 @@
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\bin\Debug\net6.0\P06. Generic Count Method Double.exe
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\bin\Debug\net6.0\P06. Generic Count Method Double.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\bin\Debug\net6.0\P06. Generic Count Method Double.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\bin\Debug\net6.0\P06. Generic Count Method Double.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\bin\Debug\net6.0\P06. Generic Count Method Double.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\refint\P06. Generic Count Method Double.dll
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.pdb
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\P06. Generic Count Method Double.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\P06. Generic Count Method Double\obj\Debug\net6.0\ref\P06. Generic Count Method Double.dll
